@@ -1,0 +1,1 @@
+A simple YouTube embed creator made for a friend. Not intended to be used for anything huge.
